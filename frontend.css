@@ -1,0 +1,67 @@
+body {
+    background-color:#BE39D4;
+  }
+  
+ .signupbox
+ {
+    background-color: white;
+    border-radius: 30px 30px 30px 30px;
+    justify-content: center;
+    margin-left: 13.5cm;
+    margin-top: 2cm;
+    margin-right: 13.5cm
+   
+ }
+ .signup
+ {
+    background-color: #BE39D4;
+    margin-left: 1px;
+    margin-right: 1px;
+    border-color: white;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 15px;
+    color: white;
+       
+ }
+ .form
+ {
+   padding-left: 40px;
+   padding-right: 40px;
+ }
+ label
+ {
+    color: purple;
+   
+ }
+ input
+ {
+    appearance: none;
+    line-height: 0;
+    font-size: 17px;
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    padding: 10px 15px;
+    border-radius: 60px;
+    border-color: purple;
+    color:purple;
+    font-weight: 100;
+    letter-spacing: 0.01em;
+     position: relative;
+    z-index: 1;
+    
+
+ }
+ ::placeholder
+ {color: #BE39D4;}
+ button
+ {
+    background-color:#BE39D4;
+    border-radius: 10px 10px 10px 10px;
+    border-color:#BE39D4;
+    font-size: 20px;
+    color: white;
+    
+ }
+ 
